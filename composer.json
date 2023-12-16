@@ -1,0 +1,11 @@
+{
+    "name": "customiesdevs/customies",
+    "require": {
+        "pocketmine/pocketmine-mp": "@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "customiesdevs\\customies\\": "src/"
+        }
+    }
+}
